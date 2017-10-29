@@ -6,7 +6,8 @@
   <body>
     <div id="root">Ну я уже начал че то делать)</div>
 <?php 
-   echo "<img src="img/dalmation.gif">"; 
+   echo "<img src="img/ dalmation.gif">"; 
+   //<img src=" dalmation.gif">
 ?>
     <script src="js/react/react.js"></script>
     <script src="js/react/react-dom.js"></script>
